@@ -109,7 +109,7 @@ All analysis was conducted in **ArcGIS Pro 3.4** using the following workflow:
 
 ---
 
-## 📍 Study Area
+## Study Area
 
 **County:** Kisumu County, Kenya  
 **Region:** Lake Victoria Basin, Western Kenya  
@@ -122,15 +122,15 @@ All analysis was conducted in **ArcGIS Pro 3.4** using the following workflow:
 
 This repository is maintained by the project GIS team responsible for the Kisumu County Water Utility Mapping Project.
 
-For technical enquiries regarding the dataset, methodology, or Phase 2 field operations, please contact the project team via the Kisumu County Water & Sewerage Company (KIWASCO) procurement office.
+For technical enquiries regarding the dataset, methodology, or Phase 2 field operations, please contact the project team via ouma.otih@gmail.com
 
 ---
 
 ## ⚖️ Data Use & Disclaimer
 
-This dataset is shared for **county government review and tender documentation purposes only**. All spatial data remains the property of Kisumu County Government and KIWASCO. Redistribution or use outside the scope of this project requires written authorisation from the county.
+All spatial data remains the property of Kisumu County Government and KIWASCO. Redistribution or use outside the scope of this project requires written authorisation from the county.
 
-The gap counts presented are **predicted estimates** derived from spatial modelling. Final confirmed counts will be established upon completion of Phase 2 field verification.
+The gap counts presented are predicted estimates derived from spatial modelling. Final confirmed counts will be established upon completion of Phase 2 field verification.
 
 ---
 
